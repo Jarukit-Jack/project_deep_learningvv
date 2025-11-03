@@ -1,0 +1,6 @@
+yfinance
+tqdm
+torchaudio
+torchvision
+torch
+pandas
